@@ -5,7 +5,7 @@ from app.core.config import *
 # 引用utils中的方法
 from app.utils.connect_openai import *
 
-bot_id = Settings.VoceChat['bot_config']["bot3"]["secret"]
+bot_id = Settings.VoceChat['bot_config']["bot1"]["secret"]
 
 command_help = "!help"
 command_context_mode = "!context"

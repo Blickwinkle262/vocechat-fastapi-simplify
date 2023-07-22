@@ -1,5 +1,3 @@
-import os
-
 # api配置
 # 主机
 api_app_host = os.environ.get('API_APP_HOST')
